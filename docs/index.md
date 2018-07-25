@@ -1,2 +1,2 @@
-## WELCOME TO XDN
-### For developers by developers.
+# Easy documentation at your fingertips.
+Pages:
