@@ -1,2 +1,3 @@
 # Easy documentation at your fingertips.
-Pages:
+### Pages:
+[Console.WriteLine](http://https://xanthu.github.io/xdn/console-writeline)
